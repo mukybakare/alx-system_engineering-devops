@@ -2,4 +2,5 @@
 2. I created a file named 1-confused_smiley, and note down the command line to print it.
 3. Displaying the content of /etc/passwd
 4. Created new file 3-twofiles and wrote the command to display etc/passwd and /etc/hosts
-5. Created new file 4-lastline and write the command to display last 10 line 
+5. Created new file 4-lastline and write the command to display last 10 line
+6. Created new file 5-firstlines and write the command to display 10 line of /etc/passwd 
