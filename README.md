@@ -1,1 +1,1 @@
-/alx-system_engineering-devops/0x00-shell_basics#
+1. creating alias for ls
